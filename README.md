@@ -1,6 +1,6 @@
 # Cod Reducere Pentru Animale
 
-O colecție de coduri de reducere Pentru Animale. Le folosim pentru testarea cuvintelor cheie cod reducere Pentru Animale, voucher Pentru Animale, cupon Pentru Animale, și cod promotional Pentru Animale de pe Cuponescu.ro.
+O colecție de coduri de reducere Pentru Animale. Le folosim pentru testarea cuvintelor cheie [cod reducere Pentru Animale](https://cuponescu.ro/magazin/pentru-animale), [voucher Pentru Animale](https://cuponescu.ro/magazin/pentru-animale), [cupon Pentru Animale](https://cuponescu.ro/magazin/pentru-animale), și [cod promotional Pentru Animale](https://cuponescu.ro/magazin/pentru-animale) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-pentru-animale a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
