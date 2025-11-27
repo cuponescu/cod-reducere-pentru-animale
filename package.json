@@ -1,0 +1,27 @@
+{
+  "name": "cod-reducere-pentru-animale",
+  "version": "1.0.0",
+  "description": "O colecție de coduri de reducere Pentru Animale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cod reducere",
+    "voucher",
+    "cupon",
+    "cod promotional",
+    "pentru animale",
+    "pet shop",
+    "reduceri",
+    "cuponescu"
+  ],
+  "author": "Cuponescu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianCuponescu/cod-reducere-pentru-animale.git"
+  },
+  "homepage": "https://www.cuponescu.ro"
+}
+
